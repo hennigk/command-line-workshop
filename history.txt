@@ -1,0 +1,16 @@
+    1  cd
+    2  git clone git@github.com:hennigk/command-line-workshop.git
+    3  git checkout master
+    4  git status
+    5  git init
+    6  git status
+    7  git add .
+    8  git commit -m 'initial commit'
+    9  git status
+   10  git log
+   11  cd
+   12  ls
+   13  cd command-line-workshop
+   14  git checkout -b cmd-history
+   15  history
+   16  history > history.txt

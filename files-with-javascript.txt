@@ -1,0 +1,25 @@
+Binary file /home/ubuntu/workspace/.git/index matches
+/home/ubuntu/workspace/src/_config.yml:  Learn HTML, CSS, & Javascript in just 8 weeks. Click here for more info.
+/home/ubuntu/workspace/src/_layouts/default.html:        <a href="javascript:void(0)" class="main-nav__link">Courses</a>
+/home/ubuntu/workspace/src/on-demand/index.html:      <li>The very fundamentals of JavaScript</li>
+/home/ubuntu/workspace/src/on-demand/index.html:<section class="javascript-frontend">
+/home/ubuntu/workspace/src/on-demand/index.html:    <h2>Javascript &amp; jQuery</h2>
+/home/ubuntu/workspace/src/on-demand/index.html:      JavaScript originated as a language to add dynamic functionality to a web page. Over the years, it has evolved into
+/home/ubuntu/workspace/src/on-demand/index.html:      Even though this part of the preparatory material deals with JavaScript from a front-end perspective, a lot of the
+/home/ubuntu/workspace/src/on-demand/index.html:      general programming concepts will apply on the back-end as well when we look at NodeJS. Since JavaScript is an integral
+/home/ubuntu/workspace/src/on-demand/index.html:        <h3><a target="_blank" href="http://www.codecademy.com/tracks/javascript">Codecademy's JavaScript track</a></h3>
+/home/ubuntu/workspace/src/on-demand/index.html:    <h2>NodeJS: JavaScript for the back-end</h2>
+/home/ubuntu/workspace/src/on-demand/index.html:      Now that you have completed the section on JavaScript and jQuery, you should be somewhat introduced to the JavaScript
+/home/ubuntu/workspace/src/on-demand/index.html:      JavaScript deals more with UI logic, and less with data and I/O (input/output). On the back-end side, we will be
+/home/ubuntu/workspace/src/on-demand/index.html:      using JavaScript to talk to databases and other back-ends (APIs).
+/home/ubuntu/workspace/src/on-demand/index.html:      In JavaScript, all these I/O operations happen <strong>asynchronously</strong>, almost like sending a message in
+/home/ubuntu/workspace/src/on-demand/index.html:      a bottle. This section introduces you to some of the concepts that will come up when doing JavaScript on the
+/home/ubuntu/workspace/src/on-demand/index.html:          <a target="_blank" href="http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/">Understanding
+/home/ubuntu/workspace/src/on-demand/index.html:            JavaScript Callback Functions</a>
+/home/ubuntu/workspace/src/on-demand/index.html:          <a target="_blank" href="https://functionwhatwhat.com/introduction-to-promises-in-javascript/">Introduction to Promises in
+/home/ubuntu/workspace/src/on-demand/index.html:            JavaScript</a>
+/home/ubuntu/workspace/src/_data/fulltime_curriculum.json:            "JavaScript and JSON Review",
+/home/ubuntu/workspace/src/_data/fulltime_curriculum.json:            "Trying mobile development using JavaScript with React Native",
+/home/ubuntu/workspace/src/_data/fulltime_learn.json:      "icon": "/assets/images/full-time/javascript.png",
+/home/ubuntu/workspace/src/_data/fulltime_learn.json:      "title": "JavaScript",
+/home/ubuntu/workspace/README.md:* javascript/jquery
